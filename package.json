@@ -1,0 +1,15 @@
+{
+  "name": "alexa-skill-last-javascript-framework",
+  "version": "1.0.0",
+  "description": "An Alexa skill telling you how many days it's been since a new JavaScript framework.",
+  "main": "index.js",
+  "repository": "git@github.com:msz/alexa-skill-last-javascript-framework.git",
+  "author": "Michal Szewczak <michal@szewczak.email>",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  },
+  "devDependencies": {
+    "@types/alexa-sdk": "^1.0.7"
+  }
+}
